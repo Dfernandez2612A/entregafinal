@@ -1,0 +1,276 @@
+@media (min-width: 1024px) and (max-width:2560px){
+    
+    .portada{
+        background: url(../media/Imagen1.jpg)no-repeat;
+        background-size: cover;
+        height: 70vh;
+        width: 100%;
+    }
+    footer{
+        .foot{
+            h2{
+                font-size: 15px;
+            }
+            h4{
+                font-size: 15px;
+            }
+    
+        }
+    }
+    .imgquienes{
+        background: url(../media/quienes/m.jpg)no-repeat;
+        background-size: cover;
+        height: 85vh;
+        
+    }
+    .imgcontactenos{
+        background: url(../media/contactenos/cont.jpg)no-repeat;
+        background-size: cover;
+        
+    }
+
+
+    
+    
+    
+}
+@media (min-width: 2560px){
+
+    nav a{
+        font-size: 30px;
+    }
+    
+    .portada{
+        background: url(../media/Imagen1.jpg)no-repeat;
+        background-size: cover;
+        height: 70vh;
+        width: 100%;
+
+        h1{
+            font-size: 60px;
+
+        }
+        p{
+            font-size: 40px;
+        }
+    }
+    .contenido{
+        p{
+            font-size: 30px;
+        }
+        h2{
+            font-size: 40px;
+        }
+
+        .parrafo1{
+            p{
+                font-size: 40px;
+            }
+        }       
+    }
+    footer{
+        .foot{
+            h2{
+                font-size: 30px;
+            }
+            h4{
+                font-size: 30px;
+            }
+    
+        }
+    }
+
+    //pagina Veterinaria
+
+    .vet{
+        h2{
+           font-size: 40px;
+        }
+        p{
+            font-size: 30px;
+
+        }
+    }
+
+    .tarjetas{
+        h5{
+            font-size: 40px;
+        }
+        p{
+            font-size: 40px;
+        }
+    }
+
+    //grooming
+
+    #grooming{
+        h5{
+            font-size: 40px;
+
+        }
+        p{
+            font-size: 30px;
+
+        }
+    }
+    //quienes
+
+    .quienesc{
+
+        .text{
+            display: flex;
+            align-items: center;
+        }
+        h1{
+            font-size: 90px;
+        }
+        p{
+            font-size: 80px;
+        }
+    }
+
+    .imgquienes{
+        background: url(../media/quienes/m.jpg)no-repeat;
+        background-size: cover;
+        height: 90vh;
+        
+
+        
+    }
+    .imgcontactenos{
+        background: url(../media/contactenos/cont.jpg)no-repeat;
+        background-size: cover;
+        
+    }
+
+   
+    
+}
+
+@media (min-width: 320px) and (max-width: 425px){
+    .portada{
+        background: url(../media/Imagen1.jpg)no-repeat;
+        background-size: cover;
+        height: 50vh;
+        width: 100%;
+
+        h1{
+            font-size: 20px;
+
+        }
+        
+        p{
+            font-size: 15px;
+
+        }
+    }
+    .contenido1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer{
+        .foot{
+            h2{
+                font-size: 12px;
+            }
+            h4{
+                font-size: 12px;
+            }
+    
+        }
+    }
+
+    .imgquienes{
+        background: url(../media/quienes/n.jpg)no-repeat;
+        background-size: cover;
+        height: 50vh;
+        width: 100%;
+
+        
+    }
+    
+    .quienesc{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .imgcontactenos{
+        background: url(../media/contactenos/cont.jpg)no-repeat;
+        background-size: cover;
+        
+    }
+
+
+
+
+}
+
+@media (min-width: 426px) and (max-width: 768px){
+
+    .portada{
+        background: url(../media/Imagen1.jpg)no-repeat;
+        background-size: cover;
+        height: 50vh;
+        width: 100%;
+
+        h1{
+            font-size: 30px;
+
+        }
+        
+        p{
+            font-size: 20px;
+
+        }
+    }
+    .contenido1{
+        display: flex;
+        flex-direction: column;
+    }
+    footer{
+        .foot{
+            h2{
+                font-size: 15px;
+            }
+            h4{
+                font-size: 15px;
+            }
+    
+        }
+    }
+
+    .text{
+        h1{
+           font-size:20px ;
+        }
+        p{
+            font-size: 8px;
+
+        }
+    }
+
+    .imgquienes{
+        background: url(../media/quienes/m.jpg)no-repeat;
+        background-size: cover;
+        
+    }
+    .contenido1{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgcontactenos{
+        background: url(../media/contactenos/cont.jpg)no-repeat;
+        background-size: cover;
+        
+    }
+
+
+    
+
+}

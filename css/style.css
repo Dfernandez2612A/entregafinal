@@ -1,0 +1,230 @@
+@media (min-width: 1024px) and (max-width: 2560px) {
+  .portada {
+    background: url(../media/Imagen1.jpg) no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%; }
+  footer .foot h2 {
+    font-size: 15px; }
+  footer .foot h4 {
+    font-size: 15px; }
+  .imgquienes {
+    background: url(../media/quienes/m.jpg) no-repeat;
+    background-size: cover;
+    height: 85vh; }
+  .imgcontactenos {
+    background: url(../media/contactenos/cont.jpg) no-repeat;
+    background-size: cover; } }
+
+@media (min-width: 2560px) {
+  nav a {
+    font-size: 30px; }
+  .portada {
+    background: url(../media/Imagen1.jpg) no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%; }
+    .portada h1 {
+      font-size: 60px; }
+    .portada p {
+      font-size: 40px; }
+  .contenido p {
+    font-size: 30px; }
+  .contenido h2 {
+    font-size: 40px; }
+  .contenido .parrafo1 p {
+    font-size: 40px; }
+  footer .foot h2 {
+    font-size: 30px; }
+  footer .foot h4 {
+    font-size: 30px; }
+  .vet h2 {
+    font-size: 40px; }
+  .vet p {
+    font-size: 30px; }
+  .tarjetas h5 {
+    font-size: 40px; }
+  .tarjetas p {
+    font-size: 40px; }
+  #grooming h5 {
+    font-size: 40px; }
+  #grooming p {
+    font-size: 30px; }
+  .quienesc .text {
+    display: flex;
+    align-items: center; }
+  .quienesc h1 {
+    font-size: 90px; }
+  .quienesc p {
+    font-size: 80px; }
+  .imgquienes {
+    background: url(../media/quienes/m.jpg) no-repeat;
+    background-size: cover;
+    height: 90vh; }
+  .imgcontactenos {
+    background: url(../media/contactenos/cont.jpg) no-repeat;
+    background-size: cover; } }
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .portada {
+    background: url(../media/Imagen1.jpg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%; }
+    .portada h1 {
+      font-size: 20px; }
+    .portada p {
+      font-size: 15px; }
+  .contenido1 {
+    display: flex;
+    flex-direction: column; }
+  footer .foot h2 {
+    font-size: 12px; }
+  footer .foot h4 {
+    font-size: 12px; }
+  .imgquienes {
+    background: url(../media/quienes/n.jpg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%; }
+  .quienesc {
+    display: flex;
+    flex-direction: column; }
+  .form {
+    display: flex;
+    flex-direction: column; }
+  .imgcontactenos {
+    background: url(../media/contactenos/cont.jpg) no-repeat;
+    background-size: cover; } }
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .portada {
+    background: url(../media/Imagen1.jpg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%; }
+    .portada h1 {
+      font-size: 30px; }
+    .portada p {
+      font-size: 20px; }
+  .contenido1 {
+    display: flex;
+    flex-direction: column; }
+  footer .foot h2 {
+    font-size: 15px; }
+  footer .foot h4 {
+    font-size: 15px; }
+  .text h1 {
+    font-size: 20px; }
+  .text p {
+    font-size: 8px; }
+  .imgquienes {
+    background: url(../media/quienes/m.jpg) no-repeat;
+    background-size: cover; }
+  .contenido1 {
+    display: flex;
+    flex-direction: column; }
+  .imgcontactenos {
+    background: url(../media/contactenos/cont.jpg) no-repeat;
+    background-size: cover; } }
+
+main .portada {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: end; }
+  main .portada h1 {
+    color: crimson; }
+  main .portada h1 {
+    color: crimson; }
+  main .portada p {
+    color: #fff; }
+
+main .parrafo1 p {
+  margin-top: 30px;
+  color: black;
+  text-align: center;
+  font-family: 'Henny Penny', cursive; }
+
+main .contenido {
+  display: flex;
+  flex-direction: column; }
+
+main .contenido1 {
+  margin: 2rem 0rem; }
+  main .contenido1 h2 {
+    color: crimson;
+    font-family: 'Special Elite', cursive; }
+
+main .carousel {
+  margin-top: 2rem; }
+
+main .vete {
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+  main .vete h1 {
+    margin-top: 20px;
+    font-family: 'Special Elite', cursive; }
+  main .vete p {
+    font-family: 'Henny Penny', cursive;
+    margin-left: 20px;
+    margin-right: 20px; }
+
+main .tarjetas h5 {
+  color: crimson;
+  font-family: 'Special Elite', cursive; }
+
+main .tarjetas p {
+  color: #fff;
+  font-family: 'Henny Penny', cursive;
+  margin-left: 20px;
+  margin-right: 20px; }
+
+main .quienesc h1 {
+  margin-top: 20px;
+  font-family: 'Fredoka One', cursive; }
+
+main .quienesc p {
+  margin-top: 30px;
+  font-family: 'Permanent Marker', cursive;
+  text-align: justify;
+  font-size: 18px; }
+
+main .quienesc .text {
+  background: #F5D6F5; }
+
+main .formulario {
+  background-color: #808080; }
+  main .formulario button {
+    background-color: black;
+    color: crimson; }
+  main .formulario h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Lobster', cursive;
+    color: crimson; }
+  main .formulario label {
+    font-size: 18px;
+    font-family: 'Satisfy', cursive; }
+  main .formulario input {
+    font-size: 10px; }
+
+main .nombre {
+  margin-bottom: 20px; }
+
+main .enviar {
+  margin-bottom: 50px; }
+
+footer .foot {
+  margin-top: 30px;
+  color: #fff;
+  font-family: 'Caveat', cursive; }
+
+footer .foot1 {
+  color: #fff;
+  font-family: 'Caveat', cursive; }
+  footer .foot1 h2 {
+    font-size: 18px; }
+  footer .foot1 h4 {
+    font-size: 15px; }
